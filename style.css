@@ -1,5 +1,15 @@
 body {
-  background-color: #C8E6E8;
-  background-image: url(./1.png);
+  background-color: lightsteelblue;
+}
+.banner {
+  float:left;
+  width: 100%;
+  height: 150px;
+  vertical-align: text-top;
+  overflow: hidden;
+  background-image: url(./banner.png);
+  background-position: top center;
   background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: local;
 }
